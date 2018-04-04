@@ -5,3 +5,4 @@ Currently playing non-competitive matches at (https://playground.riddles.io/comp
 
 Uses search and evaluation, with automatic tuning of evaluation terms.
 
+![alt text](Image/block_playing.jpg "Blocks")
