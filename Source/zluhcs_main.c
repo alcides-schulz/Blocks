@@ -2,8 +2,6 @@
 // TheAiGames's block bot by Alcides Schulz (zluchs)
 //-------------------------------------------------------------------------
 
-//games played: 100 total rounds: 8507 avg rounds: 85.07 avg xlines: 0.00 avg points: 66.46 avg lines: 34.37 results: 66.4600
-
 #define VERSION 5
 
 #include "zluhcs_defs.h"
